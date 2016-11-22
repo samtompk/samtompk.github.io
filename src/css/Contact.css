@@ -1,0 +1,18 @@
+.contact {
+	width: 300px;
+	margin: auto;
+	background-color: #FFD166;
+	padding: 15px;
+	border-radius: 15px;
+}
+
+.btn {
+	margin: 5px;
+}
+
+h4 {
+	font-size: 2rem;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}

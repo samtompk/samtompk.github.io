@@ -1,0 +1,27 @@
+.home {
+	color: white;
+	width: 600px;
+	margin: auto;
+	padding-top: 20px;
+}
+
+h1 {
+	font-size: 3em;
+	display: inline;
+	padding-left: 20px;
+	position: relative;
+	bottom: 50px;
+}
+
+img {
+	width: 150px;
+	border-radius: 50%;
+	height: auto;
+	display: inline;
+}
+
+p {
+	padding: 20px;
+	font-size: 120%;
+	margin-top: 0px;
+}
